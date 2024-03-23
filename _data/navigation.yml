@@ -1,12 +1,11 @@
 links:
-  - title: Posts
+  - title: posts
     url: /
-  - title: Categories
+  - title: categories
     url: /categories
-  - title: Tags
+  - title: tags
     url: /tags
-  - title: Search
+  - title: search
     url: /search
-  - title: Linkedin
-    url: https://linkedin.com/in/dev-jonghoonpark
-    target: _blank
+  - title: about
+    url: /about

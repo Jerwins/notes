@@ -1,14 +1,14 @@
-site: jonghoonpark
-url: https://jonghoonpark.com
-title: 박종훈 기술블로그
-description: 공부하고 경험한 것을 기록합니다.
+site: jerwin
+url: https://jerwin.dev
+title: jerwin
+description: notes
 author:
-  name: 박종훈
-  email: dev@jonghoonpark.com
-  linkedin: https://www.linkedin.com/in/dev-jonghoonpark
-  url: https://jonghoonpark.com
+  name: jerwin
+  email: jerwinsamuel@gmail.com
+  linkedin: https://www.linkedin.com/in/jerwinsamuel
+  url: https://jerwin.dev
 permalink: pretty
-timezone: Asia/Seoul
+timezone: Asia/Calcutta
 
 baseurl: ""
 
@@ -61,9 +61,9 @@ defaults:
       layout: "post"
 
 social:
-  name: jonghoonpark
+  name: jerwin
   links:
-    - https://www.linkedin.com/in/dev-jonghoonpark
+    - https://www.linkedin.com/in/jerwinsamuel
 
 paginate: 20
 paginate_path: "/page:num/"
