@@ -4,8 +4,7 @@ title: jerwin
 description: notes
 author:
   name: jerwin
-  email: jerwinsamuel@gmail.com
-  linkedin: https://www.linkedin.com/in/jerwinsamuel
+  email: dontemailme@jerwin.dev
   url: https://jerwin.dev
 permalink: pretty
 timezone: Asia/Calcutta
@@ -59,11 +58,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-social:
-  name: jerwin
-  links:
-    - https://www.linkedin.com/in/jerwinsamuel
 
 paginate: 20
 paginate_path: "/page:num/"
