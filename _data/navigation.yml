@@ -9,3 +9,5 @@ links:
     url: /search
   - title: about
     url: /about
+  - title: rss
+    url: /atom.xml
