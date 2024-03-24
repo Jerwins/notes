@@ -2,7 +2,7 @@
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-  prefix: 'dev-jonghoonpark',
+  prefix: 'jerwin',
   suffix: 'v1.2',
   precache: 'precache',
   runtime: 'runtime-cache'
