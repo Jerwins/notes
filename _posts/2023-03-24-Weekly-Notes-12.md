@@ -40,7 +40,7 @@ Pomfret Fry
 
 ![alt text](https://i.imgur.com/k155Rmu.jpg)
 
-- After church, went to Mambakkam to attend Jebi's friend's wedding. Her old company colleagues also came for the wedding and it was good to see everyone reunited in one place.
+- After church, went to Madambakkam to attend Jebi's friend's wedding. Her old company colleagues also came for the wedding and it was good to see everyone reunited in one place.
 
 - IPL 2024 started this week. So glad we will have entertainment till midnight every day for the next few months. 
 
