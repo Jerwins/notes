@@ -26,7 +26,7 @@ Pizza Bread!
 
 ![alt text](https://i.imgur.com/v2NksL9.jpg)
 
-Pomfret Fry
+Seer Fish Fry
 
 ![alt text](https://i.imgur.com/pq2bOcX.jpg)
 
