@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Week 12 - notes
-categories: [life]
-tags: [weekly-notes, life]
+title: Week 12
+categories:
+  - life
+tags:
+  - weekly-notes
+  - life
 date: 2024-03-24 12:00:00 +0900
 ---
 
