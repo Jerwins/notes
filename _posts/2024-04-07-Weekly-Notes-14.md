@@ -9,9 +9,17 @@ tags:
 date: 2024-04-07 12:00:00 +0900
 published: yes
 ---
-Business as usual after vacation ended on Monday. Cousin's flowering ceremony this week but unfortunately this was on the busiest day with meetings so Jebi had to go alone - good thing she had some company from relatives.
+![Pic](https://i.imgur.com/sKhVoKg.jpeg)
 
-Got cold and throat pain so stayed inside most of the week. Feeling much better after today.
+Business as usual after vacation ended on Monday. Gave macaroons to team mates which I bought from Tuticorin. 
+
+![Pic](https://i.imgur.com/58R1bL8.jpeg)
+
+It’s freaking hot here. Fresh fruits are the only saving grace in summer.
+
+![Hot](https://i.imgur.com/f1MXRFR.jpeg)
+
+Cousin's flowering ceremony this week but unfortunately this was on the busiest day with meetings so Jebi had to go alone - good thing she had some company from relatives. Got cold and throat pain so stayed inside most of the week. Feeling much better today.
 
 ![](https://i.imgur.com/kdnt5dV.jpg)
 
@@ -33,4 +41,4 @@ AC panel switches and one door actuator was reported to not work. They delayed e
 
 Unfortunately the car music system (Pioneer DMH Z5290BT) which we carefully took out before giving it to service center also did not work when we tried to put it back today ☹️. Might have short-circuited while it was on battery power under water. We have a lot of fixing to do. We are not even sure if it's worth it but yeah at least for the time being I'm going to be spending some time with dad on fixing all these.
  
-We are planning to do a medium-ish distance trip soon and then give it to Maruti service center before taking it out for longer trips. 
+We are planning to do a 60-70 KM trip soon and then give it to Maruti service center before taking it out for longer trips. 
