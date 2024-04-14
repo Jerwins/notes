@@ -7,7 +7,7 @@ tags:
   - weekly-notes
   - life
 date: 2024-04-14 12:00:00 +0900
-published: no
+published: yes
 ---
 Food alert!
 
@@ -49,3 +49,7 @@ Our sales guy then drove the car back to the showroom and brought Honda City nea
 ![](https://i.imgur.com/lp0RnNr.jpeg)
 
 I had fun driving these cars. Definitely the best part of the week.
+
+Jebi tried something new on Sunday - Garlic Honey Chicken. It was delicious! 
+
+![](https://i.imgur.com/agUm5LX.jpeg)
