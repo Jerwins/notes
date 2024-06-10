@@ -42,3 +42,5 @@ Parking inside church - what a relief to not worry about tight parking spaces.
 I don't have any food pics for this week. Here's some jackfruit madness we bought near toll along the way. Super tasty! 
 
 ![](https://i.imgur.com/tpcw1z6.jpg)
+
+Got some nongu, Gnanam bakery roll cakes and bought some household items. Overall chill weekend. Planning to visit my grandma, father-in-law's brother, mother-in-law's father in Tirunelveli and my mother's sister in Uvari, next week.
