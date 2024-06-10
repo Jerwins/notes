@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3197dd12b42e5d0e",
+        "id": "911584343687b2c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce7b1d342c69161",
+            "id": "aac5d27bd53a9dba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-26-Weekly-Notes-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-26-Weekly-Notes-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-26-Weekly-Notes-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-05-26-Weekly-Notes-21.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ce7b1d342c69161",
+  "active": "aac5d27bd53a9dba",
   "lastOpenFiles": [
+    "_posts/2024-06-02-Weekly-Notes-22.md",
+    "_posts/2024-05-26-Weekly-Notes-21.md",
     "_posts/2024-05-19-Weekly-Notes-20.md",
     "_posts/2024-05-12-Weekly-Notes-19.md",
     "_posts/2024-05-05-Weekly-Notes-18.md",
@@ -156,8 +150,6 @@
     "here.md",
     "_posts/2024-04-07-Weekly-Notes-14.md",
     "_posts/2024-04-14-Weekly-Notes-15.md",
-    "_posts/2024-05-26-Weekly-Notes-21.md",
-    "_posts/2024-06-02-Weekly-Notes-22.md",
     "_posts/2024-06-09-Weekly-Notes-23.md"
   ]
 }
