@@ -9,7 +9,6 @@ tags:
 date: 2024-05-19 12:00:00 +0900
 published: yes
 ---
-
 My wrap around cover was ready and I had to pickup the cover from the courier delivery branch in Pallikarnai as they started to update fake updates in tracking link. It weighed about 8-9 KGs believe it or not. It's heavy material. I somehow brought it via bike in the hot sun.
 
 ![](https://i.imgur.com/Qt0v3nJ.jpg)
@@ -32,14 +31,18 @@ Once I got the car on 15th, I immediately requested for inspection on the 16th. 
 
 Time was 4 PM and I got a call from a familiar voice, it was the same agent who visited during noon. I told him it's not raining now and I can take the car out to inspect. We took the car to an isolated area and he inspected for 45-50 minutes that included a 3 KM drive. The inspection was so detailed and clean compared to what the Honda guy did. I surely knew I was going to get a better price from Spinny. Inspection was done. App was updated with latest status. Got the price update after exactly 45 minutes. 
 
-Honda third-party tie-up price: 2.30 Lakhs
-Spinny: 3.26 Lakhs
++ Honda third-party tie-up price: 2.30 Lakhs
++ Spinny: 3.26 Lakhs
+
+![](https://i.imgur.com/rqoXL0W.png)
 
 A whooping 1 lakh difference. I knew this was going to happen and it did. Told the sales manager that I won't be applying for exchanges (so had to drop exchange discount). Talked to Spinny executive to schedule the car pickup, payment and document formalities on Saturday (2 days after inspection) since my dad (owner) has to be present there. My dad would arrive on Saturday and I will leave town on Friday, so it was the perfect date. My dad and brother finished the deal and we sold our car with no hassle. 
 
 Tried a new restaurant this week:
 
-Knockout Rusi - Food was decent. Price was way high for what was offered. 
+Knockout Rusi - Food was decent. Price was way high for what was offered. We went to urban square afterwards for a walk and then went back home.
 
 ![](https://i.imgur.com/cfgEhUg.jpg)
 ![](https://i.imgur.com/o5OPjO7.jpg)
+
+Sister-in-law's flowering ceremony went well and we returned by bus Monday morning as the weekend was packed for train travel and we couldn't get any tickets even in Tatkal. 
