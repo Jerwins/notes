@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-09-Weekly-Notes-23.md",
+                "file": "_posts/2024-04-21-Weekly-Notes-16.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-09-Weekly-Notes-23.md",
+                "file": "_posts/2024-04-21-Weekly-Notes-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-09-Weekly-Notes-23.md",
+                "file": "_posts/2024-04-21-Weekly-Notes-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-09-Weekly-Notes-23.md"
+                "file": "_posts/2024-04-21-Weekly-Notes-16.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "cee273a6f75744eb",
   "lastOpenFiles": [
-    "_posts/2024-06-02-Weekly-Notes-22.md",
-    "_posts/2024-06-09-Weekly-Notes-23.md",
-    "_posts/2024-05-26-Weekly-Notes-21.md",
-    "_posts/2024-05-19-Weekly-Notes-20.md",
-    "_posts/2024-05-12-Weekly-Notes-19.md",
-    "_posts/2024-05-05-Weekly-Notes-18.md",
     "_posts/2024-04-28-Weekly-Notes-17.md",
-    "_posts/2024-04-21-Weekly-Notes-16.md"
+    "_posts/2024-04-21-Weekly-Notes-16.md",
+    "_posts/2024-04-14-Weekly-Notes-15.md",
+    "_posts/2024-05-05-Weekly-Notes-18.md",
+    "_posts/2024-05-12-Weekly-Notes-19.md",
+    "_posts/2024-05-19-Weekly-Notes-20.md",
+    "_posts/2024-05-26-Weekly-Notes-21.md",
+    "_posts/2024-06-02-Weekly-Notes-22.md",
+    "_posts/2024-06-09-Weekly-Notes-23.md"
   ]
 }
