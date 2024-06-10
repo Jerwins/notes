@@ -43,4 +43,4 @@ I don't have any food pics for this week. Here's some jackfruit madness we bough
 
 ![](https://i.imgur.com/tpcw1z6.jpg)
 
-Got some nongu, Gnanam bakery roll cakes and bought some household items. Overall chill weekend. Planning to visit my grandma, father-in-law's brother, mother-in-law's father in Tirunelveli and my mother's sister in Uvari, next week.
+Got some nongu, Gnanam bakery roll cakes and bought some household items. Overall chill weekend. Planning to visit my grandma, father-in-law's brother, my brother, mother-in-law's father in Tirunelveli and my mother's sister in Uvari, next week.
