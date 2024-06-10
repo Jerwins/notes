@@ -10,7 +10,6 @@ date: 2024-04-21 12:00:00 +0900
 published: yes
 ---
 Our test drive spree continued, this week it was the Nissan Magnite Turbo. This was my wife's favorite car (exterior look). She loved the front grill. The car that was given was a white-black dual tone variant which looked stunning in the hot sun. 
-
 ![](https://i.imgur.com/JZFnClt.jpg)
 ![](https://i.imgur.com/pKPOVry.jpg)
 
@@ -43,5 +42,4 @@ Infotainment system doesn't come with this model but there is provision + 2 spea
 ![](https://i.imgur.com/9dBuHOz.jpg)
 
 And signing off this week's post with another food pic (courtesy Jebi's cooking)
-
 ![](https://i.imgur.com/lZa9OHG.jpg)
