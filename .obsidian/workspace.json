@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-16-Weekly-Notes-24.md",
+                "file": "_posts/2024-06-16-Weekly-Notes-25.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-16-Weekly-Notes-24.md",
+                "file": "_posts/2024-06-16-Weekly-Notes-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-16-Weekly-Notes-24.md",
+                "file": "_posts/2024-06-16-Weekly-Notes-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-16-Weekly-Notes-24.md"
+                "file": "_posts/2024-06-16-Weekly-Notes-25.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "7a17159981fb7501",
   "lastOpenFiles": [
-    "_posts/2024-06-09-Weekly-Notes-23.md",
     "_posts/2024-06-16-Weekly-Notes-24.md",
+    "_posts/2024-06-16-Weekly-Notes-25.md",
+    "_posts/2024-06-09-Weekly-Notes-23.md",
     "_posts/2024-06-02-Weekly-Notes-22.md",
     "_posts/2024-05-26-Weekly-Notes-21.md",
     "_posts/2024-05-19-Weekly-Notes-20.md",
