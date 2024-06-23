@@ -19,11 +19,11 @@ Got our car Monday evening as promised. Excellent work on the body shop. We were
 
 ![](https://i.imgur.com/IIlF2vF.jpg)
 
-After a good 20 minutes, parked inside with the help of my wife. Parking such a hassle - the only thing bad about this house and area.
+After a good 20 minutes, I parked inside with the help of my wife. Parking is such a hassle - the only bad thing about this house and area.
 
 ![](https://i.imgur.com/V4a0BY0.jpg)
 
-It's been very rainy on and off in Chennai. Either it rains heavily at night time or it rains in the evening..like this time when I was stuck in our parking shed due to rain.
+It's been very rainy on and off in Chennai. Either it rains heavily at night time or it rains in the evening. Picture shows me being stuck in our parking shed due to rain.
 
 ![](https://i.imgur.com/c8iwFpX.jpg)
 
@@ -40,9 +40,8 @@ Got sun glasses for me on the way to the movie in BSR mall.
 ![](https://i.imgur.com/DYhjngQ.jpg)
 ![](https://i.imgur.com/wxwO0oB.jpg)
 
-Some of my friends graduated this year (Georgia Tech) - congratulations! They sent me campus tour photos. They look beautiful.
+Some of my friends graduated this year (Georgia Tech) - congratulations! They sent  campus tour photos in slack. 
 
-![](https://i.imgur.com/ce45TvU.jpg)
 ![](https://i.imgur.com/qQ7HheQ.jpg)
 
 Got the window visor that I ordered from carhatke today. Looks good quality (GFX brand). I need to find time to fit these and see if it blends with our car color. I'll post a car review soon in blog and team-bhp. 
