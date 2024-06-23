@@ -7,7 +7,7 @@ tags:
   - weekly-notes
   - life
 date: 2024-06-23 12:00:00 +0900
-published: no
+published: yes
 ---
 Well look whose back!
 
@@ -29,9 +29,9 @@ It's been very rainy on and off in Chennai. Either it rains heavily at night tim
 
 We went to ibaco after an impulsive thought to eat ice cream and to bring the moods up during Friday night. It was well worth it. Stayed late Friday and Saturday to enjoy some 'me' time and to blog. We went to 'Inside out 2' which was decent. My wife loved the movie so it was worth it.
 
-![]()
+![](https://i.imgur.com/p4N7dbs.jpg)
 
-Got some sun glasses for me on the way to the movie in BSR mall.
+Got sun glasses for me on the way to the movie in BSR mall.
 
 ![](https://i.imgur.com/hDYDBN9.jpg)
 ![](https://i.imgur.com/4FQpul6.jpg)
@@ -41,3 +41,8 @@ Got some sun glasses for me on the way to the movie in BSR mall.
 ![](https://i.imgur.com/wxwO0oB.jpg)
 
 Some of my friends graduated this year (Georgia Tech) - congratulations! They sent me campus tour photos. They look beautiful.
+
+![](https://i.imgur.com/ce45TvU.jpg)
+![](https://i.imgur.com/qQ7HheQ.jpg)
+
+Got the window visor that I ordered from carhatke today. Looks good quality (GFX brand). I need to find time to fit these and see if it blends with our car color. I'll post a car review soon in blog and team-bhp. 
