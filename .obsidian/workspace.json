@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Honda City 5th-Gen V-MT 2024 Review.md",
+                "file": "_posts/Honda City 5th Gen V MT 2024 Elegant Edition Review.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -69,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8aee6b1c3898d458",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Honda City 5th-Gen V-MT 2024 Review.md",
+                "file": "_posts/Honda City 5th Gen V MT 2024 Elegant Edition Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Honda City 5th-Gen V-MT 2024 Review.md",
+                "file": "_posts/Honda City 5th Gen V MT 2024 Elegant Edition Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Honda City 5th-Gen V-MT 2024 Review.md"
+                "file": "_posts/Honda City 5th Gen V MT 2024 Elegant Edition Review.md"
               }
             }
           }
@@ -148,7 +150,7 @@
   },
   "active": "424bca13c644914a",
   "lastOpenFiles": [
-    "_posts/Honda City 5th-Gen V-MT 2024 Review.md",
+    "_posts/Honda City 5th Gen V MT 2024 Elegant Edition Review.md",
     "_posts/2024-06-16-Weekly-Notes-25.md",
     "_posts/2024-06-16-Weekly-Notes-24.md",
     "_posts/2024-06-09-Weekly-Notes-23.md",
