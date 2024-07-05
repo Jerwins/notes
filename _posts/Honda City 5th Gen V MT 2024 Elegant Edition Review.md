@@ -7,7 +7,7 @@ tags:
   - car
   - honda
   - review
-date: 2024-07-06 12:00:00 +0900
+date: 2024-07-05 12:00:00 +0900
 published: yes
 ---
 
@@ -36,10 +36,9 @@ published: yes
 + Paint quality is disappointing. Am I the only one who feels the same? tiny hairline scratches everywhere are disheartening.
 + I'm not a fan of the front chrome lining. I should probably give the Honda City RS treatment after a few years.
 + ADAS is supposed to make you feel safer, not the opposite. 
-+ No 360 Camera. I was actually contemplating getting the top variant for lanewatch alone but my friends said the camera quality isn't great and I also did not want a sunroof too. My dad just laughed when I said lanewatch comes on the left side only (for a 16L+ car you buy...)
++ No 360 Camera. 
 + No ventilated seats. Available as an accessory for 6k which ruins the look of the interiors because it's not beige. 
-+ No front parking sensors. I was told by SA that they had this but Honda removed it because too many customers started complaining that it's annoying.
-+ Infotainment system looks prehistoric.
++ Infotainment system needs a upgrade.
 + Honda connect app not detecting when trunk is open. If you silently rest the trunk door, the app wouldn't say it's open but the car instrument cluster will detect it's open. On the contrary - No bonnet open warning in car cluster but the app has it.
 + Beige fabric on the sides are hard to clean and gets dirty soon.
 + Should be 6-airbags standard even if it's Elegant Edition.
@@ -126,6 +125,8 @@ While I was there, I looked at the eHEV model of Honda City. Elegance and beauti
 
 **Delivery**:
 
+![](https://i.imgur.com/cNWFBK2.jpg)
+
 Took delivery of the car late May after confirmation of invoice and payment. I asked for steering wheel cover which they promptly forgot and said it’s out of stock. They promised they'll fit it during first service or whenever I come for a mall visit (EA is nearby). They did not force me to buy anything or offered to look at accessories. I would have bought something if they showed me a list. I later found out that they don’t have any accessories readily available. Registration was completed for the Honda Connect app during delivery. Got all the documents with a coffee and water bottle. A survey was given for rating the sales experience. We visited the showroom only once for color selection, other than that everything was done at home. 
 
 ![](https://i.imgur.com/GHAVdxx.jpg)
@@ -135,11 +136,11 @@ Chocolates from dealership. Manual & dock.
 
 Overall delivery experience was mediocre. They take a photo and give it to you in a frame before you leave. There was another car waiting for delivery so all seemed a little rushed. Honda needs to improve on the delivery experience. My bike delivery was more exciting than this. Wife laughed and felt the same.
 
-Exterior:
+**Exterior:**
 
 ![](https://i.imgur.com/HTU5nlq.jpg)
 
-Hood open clip situated almost at the centre, right above the Honda logo. All physical and neat surrounding finish. 
+Hood open clip situated almost at the centre, right above the Honda logo. All physical and neat surrounding finish. No front parking sensors. I was told by SA that they had this but Honda removed it because too many customers started complaining that it's annoying.
 
 ![](https://i.imgur.com/hO4ateE.jpg)
 
@@ -148,7 +149,7 @@ Good interior bonnet protection. SA recommend that I don't push the bonnet with 
 ![](https://i.imgur.com/yi6dKm4.jpg)
 ![](https://i.imgur.com/c8S5JND.jpg)
 
-1.5L i-VTEC Engine
+1.5L i-VTEC Engine ♥️
 
 ![](https://i.imgur.com/bg7rwjK.jpg)
 Front Fender Garnish that comes with Elegant Edition. Blends well and looks good even though I don't like having chrome in our car.
@@ -173,11 +174,11 @@ The exhaust. I should really go do a full underchasis rubberized paint work from
 
 Good to see some factory underbody protection that is already present. 
 
-Interior:
+**Interior:**
 
-![](https://i.imgur.com/zX6OO7Z.jpg)
+![](https://i.imgur.com/yIpoi8G.jpg)
 
-Dome lights on the rear. Halogen light with a satisfying physical button and decent throw at night.
+Interior looks premium. Overall beige treatment feels awesome and luxurious when you enter the car.
 
 ![](https://i.imgur.com/Af4WF5M.jpg)
 
@@ -214,6 +215,10 @@ I really like the gear knob and the leather finish. Coming from a SWIFT everythi
 
 Driver, passenger and rear foot lamps that comes with Elegant Edition. GFX premium mats bought from Carhatke (Rs. 3699). Very premium quality. Thanks for the recommendation Team-bhp!
 
+![](https://i.imgur.com/zX6OO7Z.jpg)
+
+Dome lights on the rear. Halogen light with a satisfying physical button and decent throw at night.
+
 ![](https://i.imgur.com/Dbfnrod.jpg)
 
 GFX Trunk tray from Zapcart (Rs. 1800). While shipping was horrible, my tray survived. I didnot buy the basic kit from the dealership as I did not see value in those for Rs.9999
@@ -236,7 +241,9 @@ Adaptive cruise control and other ADAS control buttons. Tried it during the my t
 
 ![](https://i.imgur.com/dFziZFX.jpg)
 
-Infotainment system looks ancient. Touch screen is responsive but with Honda, the features are non-existent. The car really deserves a better system, front parking sensors, 360 camera and better speakers. I haven't had issues connecting to Apple carplay. At first we had difficulty knowing how to connect after that it became a breeze. (click the button above the radio)
+Infotainment system looks ancient. Touch screen is responsive but with Honda, the features are non-existent. The car really deserves a better system, front parking sensors, 360 camera and better speakers. I haven't had issues connecting to Apple carplay. At first we had difficulty knowing how to connect after that it became a breeze (click the button above the radio). 
+
+I was actually contemplating getting the top variant for lanewatch alone but my friends said the camera quality isn't great and I also did not want a sunroof too. My dad just laughed when I said lanewatch comes on the left side only (for a 16L+ car you buy...)
 
 ![](https://i.imgur.com/RMn2sia.jpg)
 
@@ -262,7 +269,7 @@ Seat belts and head-rest (not adjustable) for every body! Rear seat comfort is o
 
 ORVM adjustment buttons and power window controls. Driver seat window is one touch up/down. Rest of the windows need to be held. Beige fabric accumulates dust fast and I'm finding it very hard to clean. ( I don't know what to apply T_T )
 
-Parking:
+**Parking:**
 
 ![](https://i.imgur.com/lyJP9mO.jpg)
 ![](https://i.imgur.com/GE0hN9v.jpg)
@@ -276,7 +283,7 @@ Asked the dealership to check if it fits in my parking. The driver rammed the ri
 
 Pic from first day. Our parking spot is very tight, especially going through the gate. After putting some protectors in side pillar and gate, we managed to park it without any scratches or dents. 
 
-Incident:
+**Incident:**
 
 We took a 600 KM trip to Tuticorin from Chennai and visited my in-laws. Not even one close call happened. We decided to go down south the next day, to visit another family. Our car was slowing going at 20 kmph on traffic and all of a sudden a biker with multiple 25kg ricebags on top of tank rammed into our car on the rear side door and dented it upon seeing a police officer. The police officer laughed and went off. I called people at Honda at 9 AM even though their work starts at 10 am. They were responsive and I sent pictures to the body shop crew. They told it should cost about 8-9k (part). With labor it costed more but it was covered under insurance. 
 
@@ -296,7 +303,7 @@ Replaced door - I believe the body shop did a pretty good job with the paint wor
 
 I couldn't find a difference. Good as new! :) 
 
-Accessories that I bought outside:
+**Accessories that I bought outside:**
 
 ![](https://i.imgur.com/qQ7HheQ.jpg)
 Window Visor with chrome line from Galio brand (Rs. 1500 from Carhatke)
@@ -318,7 +325,7 @@ Viofo A229 Plus 2CH Dashcam + SanDisk 256 GB Max Endurance (Rs. 24000 + Rs. 4100
 Updated to latest firmware.
 
 
-Mileage: 
+**Mileage:**
 
 ![](https://i.imgur.com/fd0J9Dy.jpg)
 
