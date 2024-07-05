@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Honda City 5th-Gen V MT 2024 Elegant Edition Review
+title: Honda City V-MT 2024 Elegant Edition - Initial impressions!
 categories:
   - car
 tags:
   - car
   - honda
   - review
-date: 2024-07-05 12:00:00 +0530
+date: 2024-07-06 12:00:00 +0530
 published: yes
 ---
 
