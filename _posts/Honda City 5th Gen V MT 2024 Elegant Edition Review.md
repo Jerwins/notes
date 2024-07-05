@@ -8,7 +8,7 @@ tags:
   - honda
   - review
 date: 2024-07-06 12:00:00 +0900
-published: no
+published: yes
 ---
 
 ![](https://i.imgur.com/HwxED3Q.jpg)
