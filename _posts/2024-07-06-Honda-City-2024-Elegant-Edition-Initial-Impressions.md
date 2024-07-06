@@ -327,11 +327,11 @@ Car with the [rat cover](https://g.co/kgs/VY9d72p) for Honda City (Rs. 8500) - U
 
 ![](https://i.imgur.com/SrgWxyC.jpg)
 
-Door handle scratches. Bought a [scratch guard](https://www.amazon.in/dp/B0987SDQPR)from Galio but I haven't applied yet because it looks out of place. (Not in pic)
+Door handle scratches. Bought a [scratch guard](https://www.amazon.in/dp/B0987SDQPR) from Galio but I haven't applied yet because it looks out of place. (Not in pic)
 
 ![](https://i.imgur.com/WDQtQ7Q.jpg)
 
-[Rain-x Rain](https://www.amazon.in/gp/product/B001RAJ1ZM) Repellant. I was told this was useful. I need this for the upcoming rainy season. Saw some reviews on YouTube and the feedback was good. Little worried about the foggy effect at night time.
+[Rain-x Rain](https://www.amazon.in/gp/product/B001RAJ1ZM) Repellant. I was told this was useful. I need this for the upcoming rainy season. Saw some reviews on [YouTube](https://www.youtube.com/watch?v=Y9iRDsigK9E) and the feedback was good. Little worried about the foggy effect at night time.
 
 ![](https://i.imgur.com/90jilkG.jpg)
 ![](https://i.imgur.com/qvfVf7i.jpg)
