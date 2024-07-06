@@ -293,7 +293,7 @@ Pic from the first day. Our parking spot is very tight, especially going through
 
 **Incident during trip:**
 
-We took a 600 KM trip to Tuticorin from Chennai and visited my in-laws. Not even one close call happened. We decided to go down south the next day, to visit another family. Our car was slowing going at 20 kmph in traffic and all of a sudden a biker with multiple 25kg rice bags on top of tank rammed into our car on the rear side door and dented it upon seeing a police officer. The police officer laughed and went off. I called people at Honda at 9 AM even though their work starts at 10 am. They were responsive and I sent pictures to the body shop crew. They told me it should cost about 8-9k (part). With labor, it cost more but it was covered under insurance. 
+We took a 600 KM trip to Tuticorin from Chennai and visited my in-laws. Not even one close call happened. We decided to go down south the next day, to visit another family. Our car was slowly going at 20 kmph in traffic and all of a sudden a biker with multiple 25kg rice bags on top of tank rammed into our car on the rear side door and dented it upon seeing a police officer. The police officer laughed and went off. I called people at Honda at 9 AM even though their work starts at 10 am. They were responsive and I sent pictures to the body shop crew. They told me it should cost about 8-9k (part). With labor, it cost more but it was covered under insurance. 
 
 ![](https://i.imgur.com/kRYDAH7.jpg)
 
