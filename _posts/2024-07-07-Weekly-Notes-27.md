@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 26
+title: Week 27
 categories:
   - life
 tags:
