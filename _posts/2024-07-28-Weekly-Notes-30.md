@@ -12,7 +12,7 @@ published: yes
 
 I'm surprised I made it this far. Some of my posts are updated as "non-published" that's why they end up late. Sometimes I don't find time to update posts on time. This was an eventful week - good and bad. 
 
-![](https://i.imgur.com/5JYpZL4.jpg)
+![](https://i.imgur.com/J3amikQ.jpg)
 Got a gel seat cover from Amazon for my bike to help with the back ache. It did help to some extent. I wouldn't recommend to everyone. Maybe it'll be useful in long rides.
 
 ![](https://i.imgur.com/TFja3R4.jpg)
@@ -22,13 +22,12 @@ My order from Karzndolls arrived. I've started collecting hot wheels and diecast
 Detailing in mini-GT models are fantastic. I wish they were available in India directly instead of as imports.
 
 ![](https://i.imgur.com/tIPPudL.jpg)
-Got these from Amazon. I wanted to paint my car's brake calipers to Red and the alloys to full glossy black. Found a watch like that and it was on a discount. Instantly ordered and received it this week. The strap is extra long so we went out and removed some pieces to fit my hand at the nearest watch store. Super satisfied with the product. Worth it!
+Got these from Amazon. I wanted to paint my car's brake calipers to red and the alloys to full glossy black. Found a watch like that and it was on a discount. Instantly ordered and received it this week. The strap is extra long so we went out and removed some pieces to fit my hand at the nearest watch store. Super satisfied with the product. Worth it!
 
 ![](https://i.imgur.com/HSeiKKN.jpg)
 Got these two at Adam's shop near Velachery while we were doing wedding shopping for my sister-in-law. Not a fan of tooned versions but this is all I got.
 
 ![](https://i.imgur.com/uVDShEw.jpg)
-
 Now for the bad part: On Sunday, I rammed the same right hand side door that was replaced recently while coming out of our tight parking space. At that time, a small truck was there unloading bricks at the front and I got startled and took a right turn coming out (not enough) and dented the entire right side door and quarter panel. I regretted getting this car that day. Terrible day. Decided to take it outside anyway and gave invitations to some relatives with a bad mood. Showed it to my dad and he was like "how did you even end up hitting this while reverse parked? coming out is the easiest part". I was sad. He was kinda disappointed and told me not to fix it. 
 
 ![](https://i.imgur.com/zfVqvui.jpg)
