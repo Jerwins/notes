@@ -54,6 +54,6 @@ Some favourite picks from ItsFun. The guy resides in Velachery.
 
 Drive though picks from Adams. Got to know that they might have new stock (not sure N case) next week. 
 
-![](https://i.imgur.com/ysdTLr5.mp4)
+<blockquote class="imgur-embed-pub" lang="en" data-id="ysdTLr5"><a href="https://imgur.com/ysdTLr5.mp4">View video on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Tooney Wheels haul that arrived in Tuticorin. I was lucky enough to check these at night. As always they pack well! 
