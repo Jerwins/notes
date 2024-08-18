@@ -23,7 +23,7 @@ chicken biryani for lunch on engagement day! The carrot jam/alwa was delicious.
 
 ![](https://i.imgur.com/Yn3Y8PI.jpeg)
 
-Last minute decision to drive the bride to the mahal. Cleaned up the car and had a chat with father who bless us and the newly bought car which had all the bad luck so far. Haha
+Last minute decision to drive the bride to the mahal. Cleaned up the car and had a chat with father who blessed us and the newly bought car which had all the bad luck so far. Haha
 
 ![](https://i.imgur.com/S4zDb9b.jpeg)
 
@@ -31,7 +31,7 @@ Meanwhile Jebi and sis having a street photoshoot.
 
 ![](https://i.imgur.com/oVQfGK6.jpeg)
 
-Band arrived. I wish I could show the video. It was a great!
+Band arrived. I wish I could show the video. It was great!
 
 ![](https://i.imgur.com/x6oUXit.jpeg)
 ![](https://i.imgur.com/xqn3MMn.jpeg)
