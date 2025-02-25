@@ -35,25 +35,4 @@ We went for a movie - Deadpool & Wolverine (IMAX) at Luxe. It was fantastic. Tho
 
 ![](https://i.imgur.com/7vfegJv.jpeg)
 ![](https://i.imgur.com/6bqdC3z.jpeg)
-
 Weekend food by my wife. Tasty!
-
-![](https://i.imgur.com/HtoOOqq.jpeg)
-![](https://i.imgur.com/JybQuIq.jpeg)
-![](https://i.imgur.com/efaeSia.jpeg)
-
-Knicknack - Worst packaging and courier. I would not recommend.
-
-![](https://i.imgur.com/OTpr8mS.jpeg)
-![](https://i.imgur.com/m16sijt.jpeg)
-![](https://i.imgur.com/G8UpCPv.jpeg)
-
-Some favourite picks from ItsFun. The guy resides in Velachery. 
-
-![](https://i.imgur.com/H3Acc5Q.jpeg)
-
-Drive though picks from Adams. Got to know that they might have new stock (not sure N case) next week. 
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="ysdTLr5"><a href="https://imgur.com/ysdTLr5.mp4">View video on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-Tooney Wheels haul that arrived in Tuticorin. I was lucky enough to check these at night. As always they pack well! 

@@ -39,7 +39,6 @@ Band arrived. I wish I could show the video. It was great!
 Everything went good. Me & Jebi were the best couple. One or two unexpected misses but overall everyone was relieved. 
 
 ![](https://i.imgur.com/VevMLOm.jpeg)
-
 All we need is a good delicious Tea at the end of the day. Mother in law makes the best tea! (Hope my wife doesn’t see this haha)
 
 
